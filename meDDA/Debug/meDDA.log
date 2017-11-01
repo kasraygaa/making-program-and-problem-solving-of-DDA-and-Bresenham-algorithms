@@ -1,0 +1,4 @@
+﻿  meDDA.cpp
+f:\downloads\documents\visual studio 2017\projects\komputer grafik uts-end\medda\medda.cpp(86): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+f:\downloads\documents\visual studio 2017\projects\komputer grafik uts-end\medda\medda.cpp(121): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  meDDA.vcxproj -> F:\Downloads\Documents\Visual Studio 2017\Projects\Komputer Grafik UTS-end\Debug\meDDA.exe
